@@ -1,1 +1,1 @@
-print('Hello from Jenkins from v3 and mail is sent')
+print('Hello from Jenkins from v4 and mail is sent')
